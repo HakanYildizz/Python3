@@ -1,5 +1,4 @@
 #Hakan Yıldız
-#kodları ayrı ayrı çalıştırın yoksahatadan sonrasını göremezsiniz
 
 #input() fonksiyonu
 
