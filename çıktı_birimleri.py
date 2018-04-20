@@ -1,6 +1,7 @@
-#Hakan YILDIZ
-
 """
+Hakan Yıldız
+Bu dersimizde çıktı birimlerini gördük
+Hata almamanız için programları ayrı ayrı çalıştırın
 bu arada (#) ("""    """) bunları kullanarak yorum satırı ekleyebilirsiniz bu satır koda bir etki etmez
 """
 
