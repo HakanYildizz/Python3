@@ -2,7 +2,7 @@
 Hakan YILDIZ
 print i daha sonra anlatacagım yazdırma fonksiyonu şimdilik bunu bilseniz yeter
 Bu dosyayı idle , pycharm veya sublime text yoluyla açabilirsiniz
-Kısım kısım yazdırmanızı öneririm yoksa hatalar yuzunden diger satırlara gecemezsiniz
+Hata almamanız için programları ayrı ayrı çalıştırın
 """
 
 
