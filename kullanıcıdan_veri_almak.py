@@ -1,4 +1,8 @@
-#Hakan Yıldız
+"""
+Hakan Yıldız
+Bu dersimizde kullanıcıdan veri almayı gördük
+Hata almamanız için programları ayrı ayrı çalıştırın
+"""
 
 #input() fonksiyonu
 
