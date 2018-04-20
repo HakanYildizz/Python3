@@ -1,5 +1,6 @@
 """
 Hakan YILDIZ
+Bu dersimizde veri yapılarını gördük
 print i daha sonra anlatacagım yazdırma fonksiyonu şimdilik bunu bilseniz yeter
 Bu dosyayı idle , pycharm veya sublime text yoluyla açabilirsiniz
 Hata almamanız için programları ayrı ayrı çalıştırın
