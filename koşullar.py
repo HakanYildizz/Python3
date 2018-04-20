@@ -1,6 +1,7 @@
 """
-
-her örneği ayrı ayrı çalıştırın
+Hakan Yıldız
+Bu dersimizde koşulları gördük
+Hata almamanız için programları ayrı ayrı çalıştırın
 
 öncelikle aşağıdakileri bilmemiz gerekiyor
 
