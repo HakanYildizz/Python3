@@ -22,7 +22,7 @@ for i in range(10):
     print(int(i))
 #Kaçtan başlayacağını bilmediği için otomatik olarak 0'dan başlar. Belirtilmediği için 1'er 1'er artar. Bu program 10'u asla yazdırmaz.
 
-for i in range(0,1,10):
+for i in range(0,10,1):
     print(int(i))
 #Bu programın 0'dan başladığını 1'er 1'er artarak 9'a kadar olacağını belirtir. Bu program 10'u asla yazdırmaz.  
 
