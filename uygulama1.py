@@ -1,7 +1,6 @@
 """
 Hakan Yıldız
 Bu dersimizde uygulama yaptık
-Hata almamanız için programları ayrı ayrı çalıştırın
 kullanıcı adı ve şifre kayıtlı olan bir programda kullanıcıdan veri almak
 yapacağımız uygulamada daha iyi anlayacaksınız
 """
