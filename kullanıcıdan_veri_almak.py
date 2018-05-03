@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 https://hakanyildiz23.wordpress.com/
 Hakan Yıldız
