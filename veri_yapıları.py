@@ -1,4 +1,5 @@
 """
+https://hakanyildiz23.wordpress.com/
 Hakan YILDIZ
 Bu dersimizde veri yapılarını gördük
 print i daha sonra anlatacagım yazdırma fonksiyonu şimdilik bunu bilseniz yeter
