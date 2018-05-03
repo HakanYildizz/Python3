@@ -1,7 +1,7 @@
 """
 https://hakanyildiz23.wordpress.com/
 Hakan Yıldız
-Bu dersimizde döngüleri gördük
+Bu dersimizde fonksiyonları gördük
 Hata almamanız için programları ayrı ayrı çalıştırın
 """
 
