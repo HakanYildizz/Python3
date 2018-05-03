@@ -45,7 +45,7 @@ def topla(değer1,değer2):
 topla(7,3)
 topla(15,9)
 topla(164,90)
-#parametrize edip fonksiyonları kullandık
+#üstteki kodlarda parametrize edip fonksiyonları kullandık
 
 
 def çıkar(değer1,değer2):
@@ -63,7 +63,7 @@ def topla(değer1,değer2):
 topla(7,3)
 topla(15,9)
 topla(164,90)
-#return ifadesini kullandığımız için ekrana çıktı vermedi
+#üstteki kodlarda return ifadesini kullandığımız için ekrana çıktı vermedi
 
 
 def çıkar(değer1,değer2):
@@ -81,4 +81,4 @@ def topla(değer1,değer2):
 print(topla(7,3))
 print(topla(15,9))
 print(topla(164,90))
-#return ifadesini kullanıp döndürdükten sonra print kullandığımız için ekrana çıktı verdi
+#üstteki kodlarda return ifadesini kullanıp döndürdükten sonra print kullandığımız için ekrana çıktı verdi
