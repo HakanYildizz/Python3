@@ -1,4 +1,5 @@
 """
+https://hakanyildiz23.wordpress.com/
 Hakan Yıldız
 Bu dersimizde koşulları gördük
 Hata almamanız için programları ayrı ayrı çalıştırın
