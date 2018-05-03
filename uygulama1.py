@@ -1,4 +1,5 @@
 """
+https://hakanyildiz23.wordpress.com/
 Hakan Yıldız
 Bu dersimizde uygulama yaptık
 kullanıcı adı ve şifre kayıtlı olan bir programda kullanıcıdan veri almak
