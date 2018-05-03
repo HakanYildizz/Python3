@@ -1,4 +1,5 @@
 """
+https://hakanyildiz23.wordpress.com/
 Hakan Yıldız
 Bu dersimizde kullanıcıdan veri almayı gördük
 Hata almamanız için programları ayrı ayrı çalıştırın
