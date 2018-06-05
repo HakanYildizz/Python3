@@ -127,7 +127,7 @@ print(liste13)
 #extend:bir listeden başka bir listeye elemanlarını eklememizi sağlar
 
 liste14 = [1,2,3,4,5,6,5,7,5,8,9,10]
-print(liste14.index(5)) # 3 elemanı baştan başlayarak 4.indekste
+print(liste14.index(5)) # 5 elemanı baştan başlayarak 4.indekste
 print(liste14.index(5,7)) # 5 elemanı 7.indeksten itibaren arandığından 8.indekste
 #index:verilen bir değerin baştan başlayarak hangi indekste olduğunu söyler
 
