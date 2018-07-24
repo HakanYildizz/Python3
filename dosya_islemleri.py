@@ -3,7 +3,7 @@
 https://hakanyildiz23.wordpress.com/
 Hakan Yıldız
 Bu dersimizde dosya işlemlerini gördük
-Detaylı öğrnemek için yukarıdaki linke gidebilirsiniz
+Detaylı öğrenmek için yukarıdaki linke gidebilirsiniz
 """
 
 #w dosya kipi
@@ -138,5 +138,3 @@ dosya7.close()
 dosya7 = open("deneme12345678.txt","x",encoding="utf-8")
 dosya7.write("Hakan")
 dosya7.close() #hata
-
-
