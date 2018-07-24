@@ -40,7 +40,7 @@ print([i**2 for i in range(10)])
 
 
 def faktöriyel(n):
-	if n==1: 						#burada bitiş noktasını belirledik
+	if n==1: 			#burada bitiş noktasını belirledik
 		return 1
 	else:                           #burada bitiş noktasına kadar olan döngüyü döndürdük
 		return n*faktöriyel(n-1) 	
@@ -51,11 +51,11 @@ print("1!=", faktöriyel(1))
 
 
 def fibonacci(n):
-if n==1: #burada bitiş noktasını belirledik
+if n==1: 				#burada bitiş noktasını belirledik
 return 1
 elif n==2:
 return 1
-else: #burada bitiş noktasına kadar olan döngüyü döndürdük
+else: 					#burada bitiş noktasına kadar olan döngüyü döndürdük
 return fibonacci(n-1)+fibonacci(n-2)
 #Bu kodla fibonacciyi hesapladık
 for i in range(1,20):
@@ -63,9 +63,9 @@ print(fibonacci(i), end="-")
 
 
 def pascal(n):
-if n == 1: #burada bitiş noktasını belirledik
+if n == 1: 				#burada bitiş noktasını belirledik
 return [1]
-else: #burada bitiş noktasına kadar olan döngüyü döndürdük
+else: 					#burada bitiş noktasına kadar olan döngüyü döndürdük
 x = [1]
 y = pascal(n-1)
 for i in range(len(y)-1):
