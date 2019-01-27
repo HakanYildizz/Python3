@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-https://hakanyildiz23.wordpress.com/
+https://hakannyildiz.wordpress.com/
 Hakan Yıldız
 Bu dersimizde kümeleri gördük
 """
