@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+https://hakanyildiz23.wordpress.com/
+Hakan Yıldız
+Bu dersimizde nesne tabanlı programlamayı gördük
+Hata almamanız için programları ayrı ayrı çalıştırın
+"""
 #sınıflar
 
 class Notebook():
@@ -199,4 +206,3 @@ Yaş : {}
 öğretmen1.yaş_değiştir(20)
 
 öğretmen1.bilgiler()
-
