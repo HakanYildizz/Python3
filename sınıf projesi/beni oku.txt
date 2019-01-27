@@ -1,0 +1,5 @@
+http://sqlitebrowser.org 
+Bu linkten bilgisayarýnýza uygun olan sqlite sürümünü indirebilirsiniz. 
+Hepsine next diyerek direk kurabilirsiniz. 
+Sonrasýnda "çalýþtýr.py" adlý dosyayý çalýþtýrýn.
+Veritabaný path üzerinde olacaktýr.
